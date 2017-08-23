@@ -1,6 +1,7 @@
 {
 	"shortcuts": [
 		"1. format code [ alt + shift + f ] ",
-		"2. hide left bar [ cmd + b ] "
+		"2. hide left bar [ cmd + b ] ",
+		"3. show methods [ cmd + shift + o ] "
 	]
 }
