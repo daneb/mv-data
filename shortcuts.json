@@ -1,9 +1,3 @@
 {
-	"shortcuts": [
-		"1. format code [ alt + shift + f ] ",
-		"2. hide left bar [ cmd + b ] ",
-		"3. show methods [ cmd + shift + o ] ",
-		"4. all word refs [ cmd + d ] ",
-		"5. quick tab [ ctrl + tab ]"
-	]
+	"shortcuts": []
 }
