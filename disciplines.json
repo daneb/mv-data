@@ -1,3 +1,3 @@
 {
-	"disciplines": "Code Barometer:\nSingle Responsibility Principle:\n\nA class should only have one reason to change (Swiss-army knife)\n\nOpen-Closed Principle:\n\nOpen for extension, but closed for modification (Hardware store saw blades)\nLiskov Substitution Principle:\n\nReplace any instance of a parent class with an instance of one of it’s children without creating any unexpected or incorrect behaviours (Lenovo Laptop Charger)\naka, Design by Contract\n\nInterface Segregation:\n\nClient should not be forced to depend upon interfaces they do not use (CMS User class and needs Moderator)\nDependency Inversion:\n\nHigh Level Classes should not depend upon low-level classes. Both should depend upon abstractions (Low-level disk and network IO. High-level business logic)"
+	"disciplines": "Hello\n\nMoo"
 }
