@@ -4,6 +4,7 @@
 		"5. quick tab [ ctrl + tab ]",
 		"4. all word refs [ cmd + d ]",
 		"3. show methods [ cmd + shift + o ]",
-		"2. hide left bar [ cmd + b ]"
+		"2. hide left bar [ cmd + b ]",
+		"6. quick palette [ F1]"
 	]
 }
