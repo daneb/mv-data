@@ -1,5 +1,10 @@
 {
 	"goals": [
-		"Add record test"
+		"Add record test",
+		"Update record test",
+		"Add delete test",
+		"Test for provider put zone",
+		"Validate provider for put works in staging",
+		"Test for Provider get zone"
 	]
 }
